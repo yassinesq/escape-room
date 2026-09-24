@@ -1,0 +1,46 @@
+body {
+background-color:  	#1f1f1f;
+color: #eeeeee;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+}
+.room {
+    width: 600px;
+    margin: 80px auto;
+    padding: 40px;
+    border: 5px solid	#7d9267;
+    border-radius: 15px;
+}
+.button {
+    font-family :Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    width: 350px;
+    margin: 15px auto;
+    padding: 15px;
+    background-color: #fcf045;
+    color: #161616;
+    text-decoration: none;
+    border-radius: 8px;
+}
+.button:hover {
+    background-color: #cccccc;
+}
+.warning {
+    color : red;
+    font-size : 20px;
+    font-weight: bold;
+}
+.wrong {
+    display: block;
+    padding : 15px;
+    background-color: red;
+    font-weight: bold;
+}
+.victory {
+    width: 600px;
+    margin: 80px auto;
+    padding: 40px;
+    background-color: #eeeeee;
+    color :#161616;
+    
+}
